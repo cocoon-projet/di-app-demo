@@ -1,6 +1,6 @@
 # Cocoon-projet/di Application de démonstartion
 
-Réalisation d'un mini framework mvc
+Réalisation d'un mini framework mvc avec l'utilisation de classe Facade (View, Route et DI) " Façon Laravel "
 
 ### Librairies utilisées pour le fonctionnement
 
@@ -11,6 +11,8 @@ Réalisation d'un mini framework mvc
 [nikic/fast-route](https://github.com/nikic/FastRoute) Router pour php
 
 [cocoon-projet/di](https://github.com/cocoon-projet/di) Conteneur d'injection de dépendances
+
+[mdbootstrap](https://mdbootstrap.com/) Framework Html basé sur bootstrap
 
 # Architecture
 
@@ -26,10 +28,21 @@ Réalisation d'un mini framework mvc
 
 ## Démarrer l'application
 
+> Pour démarrer l'application lancer votre Terminal cloner le dépot, rendez vous dans le dossier di-app-demo et faite un composer install 
+
+```
+git clone https://github.com/cocoon-projet/di-app-demo.git
+cd di-app-demo
+composer install
+```
+
+Vous pouvez lancer l'application avec le serveur php interne
 
 ```
 php -S 0.0.0.0:8000 -t public/
 ```
+
+Aller sur votre navigateur et lancer l'adresse suivante [http://localhost:8000](http://localhost:8000).
 
 ## Screenshot de l'application
 
