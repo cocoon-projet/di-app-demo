@@ -18,7 +18,7 @@ Réalisation d'un mini framework mvc avec l'utilisation de classe Facade (View, 
 
 ![Alt Architecture](app.jpeg)
 
-* **app**: pour les controlleurs et les "models"
+* **app**: pour les controlleurs et les "models" (**Autowiring** au niveau des controlleurs (constructeur et méthodes))
 * **config**: contient le fichier pour enregistrer les services
 * **database**: pour la base de donnée de l'application
 * **public**: point d'entrée de l'application avec le fichier index.php
