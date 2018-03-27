@@ -1,6 +1,6 @@
-# Cocoon-projet/di Application de démonstartion
+# Cocoon-projet/di Application de démonstration
 
-Réalisation d'un mini framework mvc avec l'utilisation de classe Facade (View, Route et DI) " Façon Laravel "
+Réalisation d'un mini framework mvc avec l'utilisation de classe Facade (View, Route et DI) " inspiration Laravel "
 
 ### Librairies utilisées pour le fonctionnement
 
