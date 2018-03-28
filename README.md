@@ -48,6 +48,8 @@ Aller sur votre navigateur et lancer l'adresse suivante [http://localhost:8000](
 
 ![Alt screenshot](screenshot.jpeg)
 
+> Note: Ne pas utiliser en production
+
 
 
 
