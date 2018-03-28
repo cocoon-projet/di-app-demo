@@ -10,7 +10,7 @@ class Response
     /**
      * URetourne une reponse html
      *
-     * @param string$html
+     * @param string $html
      * @param integer $status
      * @param array $headers
      * @return void
